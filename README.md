@@ -1,1 +1,3 @@
-# webpack-react-boilerplate
+# Sandbox
+
+A new sandbox in which to play.
